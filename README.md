@@ -52,3 +52,7 @@ Lorem ipsum...
 ## Författare
 
 Niclas Lund, [email](niclas.lund@ntig.se), [Github](https://github.com/ntinacklund)
+
+## Korrekturläsare
+
+Johan Karlsson, [email](johan.karlsson@elev.ga.ntig.se), [Github](https://github.com/JouanDeag)
