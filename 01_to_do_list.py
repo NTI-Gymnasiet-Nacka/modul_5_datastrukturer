@@ -4,7 +4,7 @@
 # Påbörjat datum
 
 # Skapa ett program som gör en Att Göra-lista till dig.
-# Gör först en meny som låter dig völja olika saker att göra med listan.
+# Gör först en meny som låter dig välja olika saker att göra med listan.
 # I menyn kan följande finnas:
 # 1) Lägg till sak att göra
 # 2) Stryk sak som gjorts
