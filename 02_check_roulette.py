@@ -9,12 +9,14 @@
 # Du gör ena i funktionen check_with_choice och den andra i check_without_choice.
 from random import choice, randint
 
+
 def check_with_choice(names, cost):
     # I denna funktion ska du returnera en string
     # med namnet på den person som ska betala.
     # Hen väljs ut från listan names med choice-funktionen.
     person = ""
     return f"{person} ska betala {cost} kr för middagen."
+
 
 def check_without_choice(names, cost):
     # I denna funktion ska du returnera en string
@@ -25,13 +27,15 @@ def check_without_choice(names, cost):
     person = ""
     return f"{person} ska betala {cost} kr för middagen."
 
+
 def main():
-    print("Mata din alla som åt middag, separera med kommatecken och mellanslag.")
+    print("Mata in alla som åt middag, separera med kommatecken och mellanslag.")
     names_string = input()
     names = names_string.split(", ")
     cost = int(input("Notan kostade: "))
-    
+
     print(check_with_choice(names), cost)
     print(check_without_choice(names), cost)
+
 
 main()
