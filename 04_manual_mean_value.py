@@ -4,7 +4,7 @@
 # Påbörjat datum
 
 # Givet en lista med integers, beräkna medelvärdet.
-# Du får inte anvönda en färdig medelvärdesfunktion.
+# Du får inte använda en färdig medelvärdesfunktion.
 # Använd istället for-loop i kombination med de olika
 # räkndeoperatörerna.
 
